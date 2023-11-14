@@ -1,0 +1,120 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    color: black;
+}
+body
+{
+    background: rgb(34,193,195);
+                background: radial-gradient(circle,
+                rgba(34,193,195,1) 0%,
+                rgba(130,8,107,0.829656862745098) 100%);
+    margin: 3px;
+    display: flex;
+    justify-content: center;
+}
+.header{
+    width: 900px;
+}
+.name
+{
+    text-align: left;
+    height: 115px;
+    width: 900px;
+    padding-top: 5px;
+    font-size: 30px;
+
+}
+.name h2:hover
+{
+    color: darkgray;
+}
+
+.name p
+{
+
+    cursor: pointer;
+    font-size: 23px;
+
+}
+.image
+{
+    float: right;
+    margin-top: 8px;
+    margin-right: 10px;
+}
+.image img
+{
+    width: 230px;
+    height: 230px;
+    border-radius:50% ;
+}
+.about
+{
+    width: 750px;
+    margin-top: 20px;
+    color: ghostwhite;
+    margin-left: 10px;
+    font-size: 19px;
+}
+.education
+{
+    width: 900px;
+    margin-top: 50px;
+    color: ghostwhite;
+    margin-left: 10px;
+    font-size: 17px;
+}
+.btech
+{
+    width: 800px;
+    font-size: 18px;
+}
+.diploma
+{
+    margin-top: 20px;
+    width: 765px;
+    font-size: 18px;
+}
+.school
+{
+    margin-top: 20px;
+    width: 800px;
+    font-size: 18px;
+}
+.projects
+{
+    margin-top: 20px;
+    width: 820px;
+    font-size: 18px;
+}
+.door
+{
+    margin-top: 20px;
+    width:818px;
+    font-size: 18px;
+}
+.Portfoilio
+{
+    margin-top: 20px;
+    width:795px;
+    font-size: 18px;
+}
+.insta
+{
+    margin-top: 20px;
+    width:795px;
+    font-size: 18px;
+}
+.skills
+{
+    margin-top: 10px;
+    font-size: 19px;
+}
+.certifications
+{
+    margin-top: 15px;
+    font-size: 19px;
+    margin-bottom: 20px;
+}
