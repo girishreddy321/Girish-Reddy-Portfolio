@@ -1,1 +1,1 @@
-# Girish-Reddy-Portfolio
+# girishreddyportfolio
